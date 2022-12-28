@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c61fe05b.css",
+    "main.js": "/static/js/main.c4d15b06.js",
+    "static/media/testimonial1.png": "/static/media/testimonial1.0aef2417a461ae41339b.png",
+    "static/media/testimonial2.png": "/static/media/testimonial2.a7df4510a77526810249.png",
+    "static/media/trainer.png": "/static/media/trainer.21ec0f2b3558842c5053.png",
+    "static/media/coexbanner.png": "/static/media/coexbanner.d1e2fc0d28146fe8f713.png",
+    "static/media/trainer1.png": "/static/media/trainer1.b8b7a2e27d164ed723dc.png",
+    "static/media/profile1.png": "/static/media/profile1.2c42cc7df4866884065d.png",
+    "static/media/profile2.png": "/static/media/profile2.7b5be69eb505d34c06e5.png",
+    "static/media/dot-pattern.svg": "/static/media/dot-pattern.ee6f4f0e6654d6e38850896165f9dc36.svg",
+    "index.html": "/index.html",
+    "static/media/svg-decorator-blob-3.svg": "/static/media/svg-decorator-blob-3.de3cee31b9fcddf16b65056335c6f8e0.svg",
+    "static/media/quotes-l.svg": "/static/media/quotes-l.075e0fe3e775496713dce7e02c3f74ed.svg",
+    "static/media/quotes-r.svg": "/static/media/quotes-r.4ac4f65482308d7be9b638ccdb4ecd03.svg",
+    "static/media/svg-decorator-blob-4.svg": "/static/media/svg-decorator-blob-4.8e136b6ba18ab63d97e6f62a68063192.svg",
+    "static/media/svg-decorator-blob-5.svg": "/static/media/svg-decorator-blob-5.3175ec4088eed43061604a370e074787.svg",
+    "static/media/list.svg": "/static/media/list.8486a1e6df1d1bbfdaae8ad928179eb6.svg",
+    "static/media/svg-decorator-blob-1.svg": "/static/media/svg-decorator-blob-1.882b52f533a5f881fbac3178df042bb0.svg",
+    "static/media/layers.svg": "/static/media/layers.545d0f51e74c7433cf988b0cfa78622e.svg",
+    "static/media/info.svg": "/static/media/info.ebce7ea8bd8d54bb08dc80b9cf745982.svg",
+    "static/media/menu.svg": "/static/media/menu.644fa295fdd5f662e642ba6bfb084239.svg",
+    "static/media/dollar-sign.svg": "/static/media/dollar-sign.8d9a6f938731fde21207ac6851ae5fcb.svg",
+    "static/media/map-pin.svg": "/static/media/map-pin.8c41fcd32a64210260619a622335959e.svg",
+    "static/media/x.svg": "/static/media/x.6c9a4ba71a333be7b021fc6da39d864c.svg",
+    "static/media/edit-2.svg": "/static/media/edit-2.015e804497d2bef5ca19a5b5ad6a22fc.svg",
+    "static/media/filter.svg": "/static/media/filter.f342dd7b00319746f418bb18b1da51c3.svg",
+    "static/media/chevron-left.svg": "/static/media/chevron-left.982a40d4f9e3cf9fdaeaf4af9da46c14.svg",
+    "static/media/chevron-right.svg": "/static/media/chevron-right.d45fd2f46e93f5c3aa0a7d0617d9fecf.svg",
+    "main.c61fe05b.css.map": "/static/css/main.c61fe05b.css.map",
+    "main.c4d15b06.js.map": "/static/js/main.c4d15b06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c61fe05b.css",
+    "static/js/main.c4d15b06.js"
+  ]
+}
